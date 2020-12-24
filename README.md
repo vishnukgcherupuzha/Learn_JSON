@@ -15,7 +15,7 @@
     <script>
 
         // Javascript object notation 
-        // JSON is a piece of informations in string format. Most of the API provides data in JASON formate, we need to 
+        // JSON is a piece of informations in string format. Most of the API provides data in JSON format, we need to 
         // convert the JSON to a object and the should convert back to JSON to handle those kind of datas
         // template literals (``) to include jason in a .js file. you can directly insert jSON in .json file without template literals
         //eg:
